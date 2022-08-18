@@ -14,9 +14,7 @@ Tata 1mg, previously 1mg, is a healthcare platform based in Gurgaon, India. It p
 
 #### Get all items
 
-```http
-  https://soumya048.github.io/tata1mg_jsonapi/db.json
-```
+
 
 
 
