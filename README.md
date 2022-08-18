@@ -101,11 +101,6 @@ There is footer page where the user see terms and condition and connected to our
 https://beamish-florentine-720d31.netlify.app/
 
 
-## Authors
 
-- [Soumyakant Swain](https://github.com/Soumya048)
-- [Sangram Keshari Sahu](https://github.com/Sangram-1996)
-- [Anish Prakash](https://github.com/Anish22prakash)
-- [Shankar Kumar](https://github.com/Ppreedam)
-- [vaibhav joshi](https://github.com/vaibhavj478)
-- [Yatin Kumar](https://github.com/yatinkumar01)
+
+
